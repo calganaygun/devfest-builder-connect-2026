@@ -1,0 +1,4 @@
+project_id = "my-billed-project"
+region     = "europe-west3"
+suffix     = "demo26"
+image      = "europe-west3-docker.pkg.dev/my-billed-project/signal-room/worker:demo"
