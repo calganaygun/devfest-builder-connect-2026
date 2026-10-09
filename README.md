@@ -1,7 +1,7 @@
 # Signal Room
 
 **Event-Driven AI Pipelines on GCP: From Eventarc to LLMs**  
-Google DevFest 2026 Wrocław demo kit
+Google DevFest 2026 Kraków demo kit
 
 A tram incident report arrives in Cloud Storage. Eventarc delivers its finalized event to a private Cloud Run service. Gemini on Vertex AI returns a structured brief for a human operator. The brief lands in a *different* bucket, which prevents an output event from retriggering the pipeline.
 
